@@ -8,3 +8,4 @@ https://github.com/MCreator/Generator-Forge-1.12.2
 https://github.com/coldshineb/MCreator-CN/releases/tag/2021.1  
 https://github.com/tomsik68/mclauncher-api  
 https://github.com/taojy123/KeymouseGo  
+https://github.com/lingochamp/FileDownloader/blob/master/CHANGELOG-ZH.md  
