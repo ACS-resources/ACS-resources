@@ -11,3 +11,4 @@ https://github.com/taojy123/KeymouseGo
 https://github.com/lingochamp/FileDownloader/blob/master/CHANGELOG-ZH.md  
 https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
 https://https://github.com/nektos/act
+https://edge.forgecdn.net/files/2770/968/simplecoloredblocks-1.2.1.jar
