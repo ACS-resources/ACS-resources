@@ -9,3 +9,4 @@ https://github.com/coldshineb/MCreator-CN/releases/tag/2021.1
 https://github.com/tomsik68/mclauncher-api  
 https://github.com/taojy123/KeymouseGo  
 https://github.com/lingochamp/FileDownloader/blob/master/CHANGELOG-ZH.md  
+https://github.com/CFPAOrg/Minecraft-Mod-Language-Package
