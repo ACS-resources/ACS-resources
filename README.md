@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @ACrazySteve
-- 👀 I’m interested in (NOTHING)
-- 🌱 I’m currently learning (NOTHING)
-- 💞️ I’m looking to collaborate on (NOTHING)
-- 📫 How to reach me (NO U CAN'T)
-- If you like any of my respitories, give me a winkle star, thanks!  
 https://github.com/MCreator/Generator-Forge-1.12.2  
 https://github.com/coldshineb/MCreator-CN/releases/tag/2021.1  
 https://github.com/tomsik68/mclauncher-api  
